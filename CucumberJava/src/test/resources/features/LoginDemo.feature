@@ -11,5 +11,5 @@ Feature: Test login functionality
 
     Examples:
       | username | password |
-      | Marian   | 123      |
-      | Luca     | matei123 |
+      | Marian   | 12345    |
+      | Luca     | 12345    |

@@ -22,7 +22,7 @@ public class loginPage {
     }
 
     public void enterUsername(String username){
-        driver.findElement(txt_password).sendKeys(username);
+        driver.findElement(txt_username).sendKeys(username);
     }
 
     public void enterPassword(String password){
